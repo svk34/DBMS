@@ -1,0 +1,1501 @@
+r_id,summary
+1,lab scans needed
+2,Alright
+3,Needs another surgery
+4,consult another doctor
+5,lab scans needed
+6,consult another doctor
+7,Needs another surgery
+8,Doing Well
+9,Doing Well
+10,Need to checkup again
+11,consult in 3 months
+12,Shift to ICU
+13,Alright
+14,Alright
+15,Doing Well
+16,Immediate Care Required
+17,consult in 3 months
+18,Immediate Care Required
+19,Need to checkup again
+20,consult in 3 months
+21,consult another doctor
+22,Need to checkup again
+23,consult another doctor
+24,Immediate Care Required
+25,consult in 3 months
+26,Shift to ICU
+27,Needs another surgery
+28,Shift to ICU
+29,Need to checkup again
+30,consult in 3 months
+31,Good
+32,Doing Well
+33,Doing Well
+34,Alright
+35,Shift to ICU
+36,Needs another surgery
+37,Need to checkup again
+38,Needs another surgery
+39,Need to checkup again
+40,Need to checkup again
+41,Shift to ICU
+42,Need to checkup again
+43,Doing Well
+44,consult in 3 months
+45,Alright
+46,lab scans needed
+47,Doing Well
+48,Doing Well
+49,Good
+50,Doing Well
+51,consult in 3 months
+52,Alright
+53,Shift to ICU
+54,Alright
+55,lab scans needed
+56,Alright
+57,Need to checkup again
+58,Needs another surgery
+59,Doing Well
+60,consult another doctor
+61,Need to checkup again
+62,Shift to ICU
+63,Need to checkup again
+64,Need to checkup again
+65,consult another doctor
+66,Immediate Care Required
+67,lab scans needed
+68,consult in 3 months
+69,consult another doctor
+70,Good
+71,Needs another surgery
+72,Needs another surgery
+73,Good
+74,Shift to ICU
+75,Need to checkup again
+76,Good
+77,Doing Well
+78,Needs another surgery
+79,Need to checkup again
+80,Shift to ICU
+81,Alright
+82,lab scans needed
+83,Need to checkup again
+84,Needs another surgery
+85,Needs another surgery
+86,Immediate Care Required
+87,consult in 3 months
+88,Needs another surgery
+89,Shift to ICU
+90,Needs another surgery
+91,lab scans needed
+92,Need to checkup again
+93,Shift to ICU
+94,lab scans needed
+95,Needs another surgery
+96,consult another doctor
+97,Need to checkup again
+98,Good
+99,consult in 3 months
+100,Doing Well
+101,Alright
+102,lab scans needed
+103,Alright
+104,consult another doctor
+105,Alright
+106,consult in 3 months
+107,Immediate Care Required
+108,Need to checkup again
+109,consult another doctor
+110,Good
+111,consult another doctor
+112,Alright
+113,Needs another surgery
+114,Good
+115,Immediate Care Required
+116,Doing Well
+117,Doing Well
+118,Doing Well
+119,Shift to ICU
+120,Need to checkup again
+121,Need to checkup again
+122,Alright
+123,consult another doctor
+124,Doing Well
+125,Needs another surgery
+126,Needs another surgery
+127,lab scans needed
+128,Doing Well
+129,Needs another surgery
+130,Shift to ICU
+131,lab scans needed
+132,consult in 3 months
+133,Doing Well
+134,consult another doctor
+135,Shift to ICU
+136,consult in 3 months
+137,Good
+138,consult another doctor
+139,Shift to ICU
+140,lab scans needed
+141,Need to checkup again
+142,Good
+143,consult another doctor
+144,Immediate Care Required
+145,lab scans needed
+146,Need to checkup again
+147,Shift to ICU
+148,Immediate Care Required
+149,Need to checkup again
+150,Shift to ICU
+151,Needs another surgery
+152,consult another doctor
+153,consult another doctor
+154,Good
+155,Immediate Care Required
+156,Needs another surgery
+157,lab scans needed
+158,Doing Well
+159,Need to checkup again
+160,lab scans needed
+161,Alright
+162,consult another doctor
+163,Need to checkup again
+164,Alright
+165,Good
+166,consult another doctor
+167,lab scans needed
+168,Alright
+169,Needs another surgery
+170,lab scans needed
+171,consult in 3 months
+172,lab scans needed
+173,Doing Well
+174,Immediate Care Required
+175,lab scans needed
+176,Shift to ICU
+177,consult another doctor
+178,consult in 3 months
+179,Shift to ICU
+180,Shift to ICU
+181,Doing Well
+182,consult in 3 months
+183,Shift to ICU
+184,Doing Well
+185,Alright
+186,Need to checkup again
+187,consult in 3 months
+188,Good
+189,Immediate Care Required
+190,Shift to ICU
+191,Need to checkup again
+192,Doing Well
+193,Needs another surgery
+194,Shift to ICU
+195,Shift to ICU
+196,Need to checkup again
+197,lab scans needed
+198,Doing Well
+199,Alright
+200,Needs another surgery
+201,Needs another surgery
+202,consult another doctor
+203,Alright
+204,consult another doctor
+205,Doing Well
+206,consult in 3 months
+207,lab scans needed
+208,Doing Well
+209,Immediate Care Required
+210,Immediate Care Required
+211,Good
+212,Need to checkup again
+213,consult another doctor
+214,Needs another surgery
+215,Needs another surgery
+216,Doing Well
+217,Need to checkup again
+218,lab scans needed
+219,Need to checkup again
+220,Alright
+221,Need to checkup again
+222,Doing Well
+223,lab scans needed
+224,Good
+225,Needs another surgery
+226,consult in 3 months
+227,Doing Well
+228,Need to checkup again
+229,Need to checkup again
+230,consult another doctor
+231,Alright
+232,Immediate Care Required
+233,Good
+234,Immediate Care Required
+235,Shift to ICU
+236,Need to checkup again
+237,Needs another surgery
+238,lab scans needed
+239,Shift to ICU
+240,consult another doctor
+241,Doing Well
+242,Needs another surgery
+243,consult in 3 months
+244,Need to checkup again
+245,Needs another surgery
+246,lab scans needed
+247,Good
+248,consult another doctor
+249,Alright
+250,lab scans needed
+251,consult in 3 months
+252,Need to checkup again
+253,Immediate Care Required
+254,Need to checkup again
+255,Alright
+256,consult in 3 months
+257,Shift to ICU
+258,lab scans needed
+259,lab scans needed
+260,consult another doctor
+261,Shift to ICU
+262,consult in 3 months
+263,lab scans needed
+264,Good
+265,Needs another surgery
+266,Shift to ICU
+267,Good
+268,consult another doctor
+269,Doing Well
+270,Alright
+271,Need to checkup again
+272,Doing Well
+273,consult in 3 months
+274,consult another doctor
+275,Need to checkup again
+276,Good
+277,Shift to ICU
+278,consult in 3 months
+279,Alright
+280,Need to checkup again
+281,Good
+282,Immediate Care Required
+283,Immediate Care Required
+284,Doing Well
+285,Needs another surgery
+286,Shift to ICU
+287,Immediate Care Required
+288,lab scans needed
+289,Shift to ICU
+290,Alright
+291,Immediate Care Required
+292,Good
+293,lab scans needed
+294,Need to checkup again
+295,Immediate Care Required
+296,Need to checkup again
+297,Needs another surgery
+298,Shift to ICU
+299,Alright
+300,Doing Well
+301,Good
+302,Alright
+303,Need to checkup again
+304,lab scans needed
+305,consult in 3 months
+306,Alright
+307,Needs another surgery
+308,consult another doctor
+309,Needs another surgery
+310,consult in 3 months
+311,Needs another surgery
+312,Needs another surgery
+313,Shift to ICU
+314,Doing Well
+315,consult in 3 months
+316,Shift to ICU
+317,Need to checkup again
+318,Shift to ICU
+319,Immediate Care Required
+320,Doing Well
+321,Immediate Care Required
+322,lab scans needed
+323,Doing Well
+324,Doing Well
+325,Immediate Care Required
+326,consult in 3 months
+327,consult in 3 months
+328,lab scans needed
+329,consult another doctor
+330,Shift to ICU
+331,Needs another surgery
+332,consult another doctor
+333,lab scans needed
+334,Doing Well
+335,Need to checkup again
+336,Good
+337,consult another doctor
+338,Alright
+339,consult another doctor
+340,consult another doctor
+341,Immediate Care Required
+342,lab scans needed
+343,Doing Well
+344,consult in 3 months
+345,Shift to ICU
+346,consult in 3 months
+347,Doing Well
+348,consult another doctor
+349,Needs another surgery
+350,consult another doctor
+351,Doing Well
+352,Immediate Care Required
+353,Shift to ICU
+354,Alright
+355,Needs another surgery
+356,Doing Well
+357,lab scans needed
+358,Doing Well
+359,Needs another surgery
+360,Shift to ICU
+361,Good
+362,Doing Well
+363,lab scans needed
+364,Needs another surgery
+365,Shift to ICU
+366,consult another doctor
+367,Doing Well
+368,Alright
+369,Doing Well
+370,Immediate Care Required
+371,lab scans needed
+372,consult another doctor
+373,Shift to ICU
+374,Alright
+375,Alright
+376,Needs another surgery
+377,Good
+378,Needs another surgery
+379,consult another doctor
+380,lab scans needed
+381,Need to checkup again
+382,consult another doctor
+383,Immediate Care Required
+384,Needs another surgery
+385,Alright
+386,consult in 3 months
+387,Needs another surgery
+388,Shift to ICU
+389,consult in 3 months
+390,Doing Well
+391,Shift to ICU
+392,lab scans needed
+393,lab scans needed
+394,lab scans needed
+395,Shift to ICU
+396,consult in 3 months
+397,Doing Well
+398,consult another doctor
+399,Immediate Care Required
+400,consult in 3 months
+401,Alright
+402,Doing Well
+403,Needs another surgery
+404,consult in 3 months
+405,Needs another surgery
+406,consult another doctor
+407,Needs another surgery
+408,Needs another surgery
+409,Immediate Care Required
+410,Need to checkup again
+411,Immediate Care Required
+412,Needs another surgery
+413,consult in 3 months
+414,Alright
+415,Shift to ICU
+416,consult in 3 months
+417,consult in 3 months
+418,Alright
+419,consult another doctor
+420,consult another doctor
+421,Doing Well
+422,Good
+423,Doing Well
+424,Need to checkup again
+425,Good
+426,Good
+427,Alright
+428,Doing Well
+429,Shift to ICU
+430,consult another doctor
+431,Needs another surgery
+432,Needs another surgery
+433,lab scans needed
+434,Shift to ICU
+435,consult in 3 months
+436,lab scans needed
+437,Alright
+438,consult in 3 months
+439,Need to checkup again
+440,consult in 3 months
+441,Doing Well
+442,Good
+443,Immediate Care Required
+444,Need to checkup again
+445,lab scans needed
+446,Immediate Care Required
+447,lab scans needed
+448,Shift to ICU
+449,Shift to ICU
+450,Shift to ICU
+451,Needs another surgery
+452,lab scans needed
+453,Shift to ICU
+454,Doing Well
+455,Doing Well
+456,Good
+457,Need to checkup again
+458,Alright
+459,consult another doctor
+460,lab scans needed
+461,Needs another surgery
+462,Shift to ICU
+463,Immediate Care Required
+464,Shift to ICU
+465,Alright
+466,Need to checkup again
+467,Alright
+468,Need to checkup again
+469,Shift to ICU
+470,Need to checkup again
+471,Shift to ICU
+472,Need to checkup again
+473,consult in 3 months
+474,consult another doctor
+475,Good
+476,Shift to ICU
+477,Needs another surgery
+478,consult another doctor
+479,Doing Well
+480,lab scans needed
+481,consult another doctor
+482,consult another doctor
+483,Shift to ICU
+484,consult another doctor
+485,consult another doctor
+486,Shift to ICU
+487,Immediate Care Required
+488,consult another doctor
+489,consult in 3 months
+490,Needs another surgery
+491,Immediate Care Required
+492,Good
+493,lab scans needed
+494,Alright
+495,Good
+496,Shift to ICU
+497,Good
+498,Immediate Care Required
+499,Need to checkup again
+500,Doing Well
+501,Immediate Care Required
+502,Good
+503,Good
+504,Good
+505,Doing Well
+506,Shift to ICU
+507,Need to checkup again
+508,consult in 3 months
+509,Needs another surgery
+510,Shift to ICU
+511,lab scans needed
+512,Shift to ICU
+513,Need to checkup again
+514,Need to checkup again
+515,consult in 3 months
+516,consult another doctor
+517,Good
+518,Needs another surgery
+519,Need to checkup again
+520,consult another doctor
+521,Shift to ICU
+522,Alright
+523,consult in 3 months
+524,Needs another surgery
+525,Immediate Care Required
+526,Needs another surgery
+527,Needs another surgery
+528,Alright
+529,Immediate Care Required
+530,Good
+531,Shift to ICU
+532,Doing Well
+533,lab scans needed
+534,lab scans needed
+535,consult another doctor
+536,Need to checkup again
+537,Needs another surgery
+538,Good
+539,Good
+540,Alright
+541,Shift to ICU
+542,Need to checkup again
+543,Alright
+544,lab scans needed
+545,Alright
+546,Shift to ICU
+547,Doing Well
+548,Need to checkup again
+549,Immediate Care Required
+550,Shift to ICU
+551,lab scans needed
+552,Doing Well
+553,Doing Well
+554,Doing Well
+555,Need to checkup again
+556,Shift to ICU
+557,Shift to ICU
+558,Good
+559,Alright
+560,Need to checkup again
+561,Alright
+562,Needs another surgery
+563,Alright
+564,Doing Well
+565,consult another doctor
+566,consult another doctor
+567,Immediate Care Required
+568,Immediate Care Required
+569,Need to checkup again
+570,consult another doctor
+571,Shift to ICU
+572,Doing Well
+573,lab scans needed
+574,Good
+575,lab scans needed
+576,Need to checkup again
+577,Alright
+578,Doing Well
+579,Good
+580,consult another doctor
+581,consult in 3 months
+582,Immediate Care Required
+583,consult another doctor
+584,Needs another surgery
+585,consult in 3 months
+586,consult in 3 months
+587,Shift to ICU
+588,lab scans needed
+589,lab scans needed
+590,Needs another surgery
+591,Need to checkup again
+592,consult in 3 months
+593,Needs another surgery
+594,lab scans needed
+595,Immediate Care Required
+596,consult another doctor
+597,Immediate Care Required
+598,Need to checkup again
+599,consult another doctor
+600,Needs another surgery
+601,Need to checkup again
+602,Alright
+603,Needs another surgery
+604,consult another doctor
+605,Alright
+606,Good
+607,Immediate Care Required
+608,Alright
+609,Alright
+610,Doing Well
+611,Alright
+612,Doing Well
+613,consult in 3 months
+614,Need to checkup again
+615,consult in 3 months
+616,consult in 3 months
+617,Shift to ICU
+618,Immediate Care Required
+619,Needs another surgery
+620,Need to checkup again
+621,Immediate Care Required
+622,consult in 3 months
+623,Shift to ICU
+624,consult another doctor
+625,Need to checkup again
+626,consult in 3 months
+627,consult in 3 months
+628,Doing Well
+629,lab scans needed
+630,Needs another surgery
+631,Shift to ICU
+632,Good
+633,Alright
+634,Needs another surgery
+635,lab scans needed
+636,Need to checkup again
+637,Shift to ICU
+638,Immediate Care Required
+639,Doing Well
+640,Shift to ICU
+641,Good
+642,Shift to ICU
+643,Doing Well
+644,Immediate Care Required
+645,lab scans needed
+646,Alright
+647,Need to checkup again
+648,Shift to ICU
+649,lab scans needed
+650,Shift to ICU
+651,Alright
+652,Immediate Care Required
+653,Doing Well
+654,Shift to ICU
+655,Immediate Care Required
+656,consult in 3 months
+657,Doing Well
+658,consult another doctor
+659,Good
+660,Immediate Care Required
+661,consult in 3 months
+662,consult another doctor
+663,Alright
+664,consult in 3 months
+665,consult in 3 months
+666,consult in 3 months
+667,Need to checkup again
+668,Need to checkup again
+669,Needs another surgery
+670,Alright
+671,consult another doctor
+672,Doing Well
+673,consult another doctor
+674,Alright
+675,lab scans needed
+676,Shift to ICU
+677,Immediate Care Required
+678,consult another doctor
+679,Needs another surgery
+680,Need to checkup again
+681,Doing Well
+682,lab scans needed
+683,Alright
+684,Need to checkup again
+685,Shift to ICU
+686,Immediate Care Required
+687,Need to checkup again
+688,consult another doctor
+689,consult another doctor
+690,Immediate Care Required
+691,Shift to ICU
+692,Needs another surgery
+693,consult in 3 months
+694,consult in 3 months
+695,consult another doctor
+696,Shift to ICU
+697,Need to checkup again
+698,lab scans needed
+699,consult in 3 months
+700,Doing Well
+701,Immediate Care Required
+702,Need to checkup again
+703,lab scans needed
+704,Immediate Care Required
+705,consult in 3 months
+706,Need to checkup again
+707,Good
+708,consult in 3 months
+709,Need to checkup again
+710,consult in 3 months
+711,Immediate Care Required
+712,Immediate Care Required
+713,lab scans needed
+714,Good
+715,Good
+716,lab scans needed
+717,lab scans needed
+718,Good
+719,Needs another surgery
+720,Needs another surgery
+721,Needs another surgery
+722,consult another doctor
+723,Need to checkup again
+724,consult in 3 months
+725,Immediate Care Required
+726,Alright
+727,Good
+728,Immediate Care Required
+729,Immediate Care Required
+730,consult another doctor
+731,Good
+732,Shift to ICU
+733,consult another doctor
+734,Immediate Care Required
+735,Needs another surgery
+736,consult in 3 months
+737,Good
+738,consult another doctor
+739,Good
+740,lab scans needed
+741,Need to checkup again
+742,Alright
+743,consult another doctor
+744,Alright
+745,lab scans needed
+746,Alright
+747,Immediate Care Required
+748,Shift to ICU
+749,Immediate Care Required
+750,consult in 3 months
+751,Shift to ICU
+752,Good
+753,Doing Well
+754,consult another doctor
+755,Doing Well
+756,Good
+757,lab scans needed
+758,Needs another surgery
+759,Doing Well
+760,Shift to ICU
+761,Needs another surgery
+762,Needs another surgery
+763,consult another doctor
+764,Good
+765,Good
+766,Immediate Care Required
+767,Need to checkup again
+768,Good
+769,consult in 3 months
+770,Alright
+771,consult in 3 months
+772,Needs another surgery
+773,Good
+774,Good
+775,Immediate Care Required
+776,Good
+777,Immediate Care Required
+778,consult another doctor
+779,Shift to ICU
+780,Good
+781,Needs another surgery
+782,Doing Well
+783,lab scans needed
+784,Good
+785,Shift to ICU
+786,Doing Well
+787,Alright
+788,consult another doctor
+789,consult in 3 months
+790,lab scans needed
+791,Shift to ICU
+792,Need to checkup again
+793,Need to checkup again
+794,Shift to ICU
+795,Doing Well
+796,lab scans needed
+797,lab scans needed
+798,Alright
+799,lab scans needed
+800,Needs another surgery
+801,lab scans needed
+802,Doing Well
+803,consult in 3 months
+804,consult in 3 months
+805,consult another doctor
+806,Needs another surgery
+807,lab scans needed
+808,Immediate Care Required
+809,Need to checkup again
+810,consult another doctor
+811,Immediate Care Required
+812,Immediate Care Required
+813,Need to checkup again
+814,Need to checkup again
+815,Good
+816,lab scans needed
+817,Needs another surgery
+818,Needs another surgery
+819,Immediate Care Required
+820,Good
+821,consult another doctor
+822,Need to checkup again
+823,Needs another surgery
+824,consult in 3 months
+825,Shift to ICU
+826,Immediate Care Required
+827,Immediate Care Required
+828,Immediate Care Required
+829,Doing Well
+830,consult in 3 months
+831,Immediate Care Required
+832,Good
+833,Immediate Care Required
+834,lab scans needed
+835,consult in 3 months
+836,consult another doctor
+837,Alright
+838,Shift to ICU
+839,Needs another surgery
+840,Needs another surgery
+841,consult in 3 months
+842,Need to checkup again
+843,Good
+844,Shift to ICU
+845,Immediate Care Required
+846,Needs another surgery
+847,Doing Well
+848,consult another doctor
+849,consult in 3 months
+850,Alright
+851,Alright
+852,Good
+853,lab scans needed
+854,lab scans needed
+855,Good
+856,Need to checkup again
+857,Immediate Care Required
+858,Shift to ICU
+859,consult in 3 months
+860,lab scans needed
+861,Needs another surgery
+862,Good
+863,Doing Well
+864,Alright
+865,Need to checkup again
+866,Alright
+867,consult in 3 months
+868,Need to checkup again
+869,consult another doctor
+870,Need to checkup again
+871,Alright
+872,Shift to ICU
+873,Immediate Care Required
+874,Immediate Care Required
+875,Shift to ICU
+876,Needs another surgery
+877,Shift to ICU
+878,consult another doctor
+879,consult another doctor
+880,Immediate Care Required
+881,Needs another surgery
+882,Good
+883,Doing Well
+884,consult in 3 months
+885,consult in 3 months
+886,lab scans needed
+887,Alright
+888,consult in 3 months
+889,Needs another surgery
+890,Need to checkup again
+891,Immediate Care Required
+892,Immediate Care Required
+893,Alright
+894,consult another doctor
+895,consult another doctor
+896,Need to checkup again
+897,Alright
+898,Immediate Care Required
+899,Need to checkup again
+900,Shift to ICU
+901,Needs another surgery
+902,lab scans needed
+903,Alright
+904,Alright
+905,lab scans needed
+906,Shift to ICU
+907,Good
+908,Good
+909,Needs another surgery
+910,Need to checkup again
+911,consult another doctor
+912,Alright
+913,Alright
+914,Immediate Care Required
+915,Good
+916,Shift to ICU
+917,consult another doctor
+918,lab scans needed
+919,Good
+920,consult another doctor
+921,lab scans needed
+922,Doing Well
+923,Needs another surgery
+924,consult in 3 months
+925,consult in 3 months
+926,lab scans needed
+927,consult in 3 months
+928,Shift to ICU
+929,Shift to ICU
+930,Good
+931,Need to checkup again
+932,Alright
+933,consult in 3 months
+934,consult another doctor
+935,Need to checkup again
+936,Alright
+937,Good
+938,Alright
+939,consult another doctor
+940,Doing Well
+941,Good
+942,consult another doctor
+943,Alright
+944,Doing Well
+945,Alright
+946,consult another doctor
+947,Needs another surgery
+948,Alright
+949,consult another doctor
+950,Shift to ICU
+951,consult another doctor
+952,Shift to ICU
+953,lab scans needed
+954,consult in 3 months
+955,Needs another surgery
+956,consult in 3 months
+957,Shift to ICU
+958,Need to checkup again
+959,Needs another surgery
+960,Good
+961,Good
+962,Good
+963,consult another doctor
+964,Alright
+965,lab scans needed
+966,consult in 3 months
+967,Shift to ICU
+968,lab scans needed
+969,Alright
+970,consult another doctor
+971,Good
+972,Good
+973,Shift to ICU
+974,Immediate Care Required
+975,Doing Well
+976,Needs another surgery
+977,Shift to ICU
+978,consult in 3 months
+979,consult another doctor
+980,Alright
+981,Good
+982,Needs another surgery
+983,Alright
+984,Need to checkup again
+985,Need to checkup again
+986,Needs another surgery
+987,Needs another surgery
+988,Need to checkup again
+989,Good
+990,Shift to ICU
+991,Shift to ICU
+992,consult in 3 months
+993,Doing Well
+994,Shift to ICU
+995,Doing Well
+996,consult in 3 months
+997,consult another doctor
+998,Shift to ICU
+999,consult another doctor
+1000,lab scans needed
+1001,Shift to ICU
+1002,Needs another surgery
+1003,consult another doctor
+1004,Good
+1005,Needs another surgery
+1006,lab scans needed
+1007,Need to checkup again
+1008,Alright
+1009,consult in 3 months
+1010,Alright
+1011,Good
+1012,Alright
+1013,Need to checkup again
+1014,Immediate Care Required
+1015,consult another doctor
+1016,lab scans needed
+1017,consult in 3 months
+1018,Immediate Care Required
+1019,Shift to ICU
+1020,Immediate Care Required
+1021,Need to checkup again
+1022,consult in 3 months
+1023,Needs another surgery
+1024,Alright
+1025,Need to checkup again
+1026,consult another doctor
+1027,Shift to ICU
+1028,consult in 3 months
+1029,Shift to ICU
+1030,consult another doctor
+1031,Shift to ICU
+1032,consult another doctor
+1033,consult another doctor
+1034,lab scans needed
+1035,consult in 3 months
+1036,consult in 3 months
+1037,Needs another surgery
+1038,consult in 3 months
+1039,Doing Well
+1040,Shift to ICU
+1041,Alright
+1042,lab scans needed
+1043,Doing Well
+1044,lab scans needed
+1045,lab scans needed
+1046,Shift to ICU
+1047,Need to checkup again
+1048,Shift to ICU
+1049,Needs another surgery
+1050,lab scans needed
+1051,Needs another surgery
+1052,consult another doctor
+1053,lab scans needed
+1054,consult in 3 months
+1055,Need to checkup again
+1056,Shift to ICU
+1057,Immediate Care Required
+1058,Need to checkup again
+1059,consult in 3 months
+1060,Shift to ICU
+1061,Needs another surgery
+1062,Good
+1063,Shift to ICU
+1064,Needs another surgery
+1065,Doing Well
+1066,consult another doctor
+1067,Alright
+1068,lab scans needed
+1069,Good
+1070,Shift to ICU
+1071,consult in 3 months
+1072,consult in 3 months
+1073,Needs another surgery
+1074,Immediate Care Required
+1075,Alright
+1076,Need to checkup again
+1077,Good
+1078,Doing Well
+1079,Good
+1080,Alright
+1081,Good
+1082,consult in 3 months
+1083,consult another doctor
+1084,Needs another surgery
+1085,Needs another surgery
+1086,Immediate Care Required
+1087,Doing Well
+1088,Needs another surgery
+1089,Need to checkup again
+1090,consult another doctor
+1091,Shift to ICU
+1092,Needs another surgery
+1093,Alright
+1094,lab scans needed
+1095,Good
+1096,Immediate Care Required
+1097,Good
+1098,lab scans needed
+1099,lab scans needed
+1100,consult in 3 months
+1101,lab scans needed
+1102,Needs another surgery
+1103,Need to checkup again
+1104,Doing Well
+1105,Immediate Care Required
+1106,consult in 3 months
+1107,Needs another surgery
+1108,consult another doctor
+1109,consult in 3 months
+1110,Need to checkup again
+1111,Needs another surgery
+1112,Shift to ICU
+1113,Need to checkup again
+1114,Doing Well
+1115,Shift to ICU
+1116,Immediate Care Required
+1117,Alright
+1118,lab scans needed
+1119,Immediate Care Required
+1120,consult another doctor
+1121,Needs another surgery
+1122,lab scans needed
+1123,Alright
+1124,Doing Well
+1125,consult another doctor
+1126,consult another doctor
+1127,lab scans needed
+1128,lab scans needed
+1129,Need to checkup again
+1130,consult another doctor
+1131,lab scans needed
+1132,lab scans needed
+1133,consult another doctor
+1134,consult another doctor
+1135,lab scans needed
+1136,consult in 3 months
+1137,Good
+1138,Doing Well
+1139,consult another doctor
+1140,Doing Well
+1141,Good
+1142,Need to checkup again
+1143,Shift to ICU
+1144,consult another doctor
+1145,Shift to ICU
+1146,consult another doctor
+1147,Shift to ICU
+1148,Needs another surgery
+1149,Shift to ICU
+1150,Good
+1151,Good
+1152,lab scans needed
+1153,Alright
+1154,Immediate Care Required
+1155,consult another doctor
+1156,lab scans needed
+1157,Need to checkup again
+1158,Good
+1159,Need to checkup again
+1160,lab scans needed
+1161,Needs another surgery
+1162,Alright
+1163,lab scans needed
+1164,Alright
+1165,consult another doctor
+1166,Good
+1167,Needs another surgery
+1168,consult in 3 months
+1169,Shift to ICU
+1170,Shift to ICU
+1171,Shift to ICU
+1172,Immediate Care Required
+1173,Doing Well
+1174,Good
+1175,consult in 3 months
+1176,Need to checkup again
+1177,Alright
+1178,consult another doctor
+1179,consult in 3 months
+1180,consult in 3 months
+1181,lab scans needed
+1182,Doing Well
+1183,consult in 3 months
+1184,Good
+1185,Needs another surgery
+1186,Good
+1187,Alright
+1188,Needs another surgery
+1189,consult another doctor
+1190,Shift to ICU
+1191,Doing Well
+1192,consult in 3 months
+1193,consult another doctor
+1194,Good
+1195,Need to checkup again
+1196,consult another doctor
+1197,Immediate Care Required
+1198,lab scans needed
+1199,consult in 3 months
+1200,Alright
+1201,Alright
+1202,Needs another surgery
+1203,consult another doctor
+1204,Doing Well
+1205,Shift to ICU
+1206,consult in 3 months
+1207,Immediate Care Required
+1208,Shift to ICU
+1209,Immediate Care Required
+1210,Good
+1211,consult another doctor
+1212,Good
+1213,Immediate Care Required
+1214,Good
+1215,Immediate Care Required
+1216,consult in 3 months
+1217,Needs another surgery
+1218,lab scans needed
+1219,Doing Well
+1220,consult in 3 months
+1221,Doing Well
+1222,Immediate Care Required
+1223,Doing Well
+1224,consult another doctor
+1225,consult another doctor
+1226,lab scans needed
+1227,Alright
+1228,Good
+1229,Good
+1230,lab scans needed
+1231,lab scans needed
+1232,Need to checkup again
+1233,Doing Well
+1234,Good
+1235,consult another doctor
+1236,Good
+1237,lab scans needed
+1238,consult in 3 months
+1239,consult another doctor
+1240,consult another doctor
+1241,Immediate Care Required
+1242,Shift to ICU
+1243,Immediate Care Required
+1244,Immediate Care Required
+1245,Good
+1246,Need to checkup again
+1247,consult in 3 months
+1248,Needs another surgery
+1249,consult in 3 months
+1250,Alright
+1251,Needs another surgery
+1252,Need to checkup again
+1253,Good
+1254,consult in 3 months
+1255,Doing Well
+1256,Shift to ICU
+1257,Needs another surgery
+1258,Immediate Care Required
+1259,consult in 3 months
+1260,Immediate Care Required
+1261,Shift to ICU
+1262,Alright
+1263,Needs another surgery
+1264,Shift to ICU
+1265,Immediate Care Required
+1266,Needs another surgery
+1267,Good
+1268,Good
+1269,Shift to ICU
+1270,consult in 3 months
+1271,Good
+1272,consult another doctor
+1273,consult in 3 months
+1274,Good
+1275,lab scans needed
+1276,consult in 3 months
+1277,Needs another surgery
+1278,Shift to ICU
+1279,consult another doctor
+1280,consult another doctor
+1281,Alright
+1282,lab scans needed
+1283,Needs another surgery
+1284,Alright
+1285,Needs another surgery
+1286,Good
+1287,consult another doctor
+1288,Immediate Care Required
+1289,Needs another surgery
+1290,Immediate Care Required
+1291,Immediate Care Required
+1292,Good
+1293,Good
+1294,Alright
+1295,Immediate Care Required
+1296,consult another doctor
+1297,Alright
+1298,Shift to ICU
+1299,Shift to ICU
+1300,Doing Well
+1301,Doing Well
+1302,lab scans needed
+1303,Doing Well
+1304,Immediate Care Required
+1305,Needs another surgery
+1306,consult another doctor
+1307,lab scans needed
+1308,Alright
+1309,Doing Well
+1310,Needs another surgery
+1311,Alright
+1312,Alright
+1313,Need to checkup again
+1314,consult another doctor
+1315,Doing Well
+1316,lab scans needed
+1317,Good
+1318,Shift to ICU
+1319,Alright
+1320,Shift to ICU
+1321,Doing Well
+1322,Alright
+1323,Immediate Care Required
+1324,Shift to ICU
+1325,Immediate Care Required
+1326,consult in 3 months
+1327,Need to checkup again
+1328,Alright
+1329,Needs another surgery
+1330,Doing Well
+1331,Doing Well
+1332,lab scans needed
+1333,Doing Well
+1334,Good
+1335,Immediate Care Required
+1336,consult another doctor
+1337,consult another doctor
+1338,consult another doctor
+1339,Alright
+1340,Doing Well
+1341,Immediate Care Required
+1342,Good
+1343,Alright
+1344,Shift to ICU
+1345,Shift to ICU
+1346,Immediate Care Required
+1347,Immediate Care Required
+1348,Shift to ICU
+1349,consult in 3 months
+1350,Need to checkup again
+1351,Doing Well
+1352,consult in 3 months
+1353,Need to checkup again
+1354,Alright
+1355,consult in 3 months
+1356,Good
+1357,consult another doctor
+1358,Immediate Care Required
+1359,Doing Well
+1360,lab scans needed
+1361,Good
+1362,lab scans needed
+1363,Immediate Care Required
+1364,lab scans needed
+1365,Alright
+1366,Good
+1367,consult another doctor
+1368,consult another doctor
+1369,consult in 3 months
+1370,Immediate Care Required
+1371,lab scans needed
+1372,Immediate Care Required
+1373,Needs another surgery
+1374,Alright
+1375,consult in 3 months
+1376,Shift to ICU
+1377,consult in 3 months
+1378,Doing Well
+1379,lab scans needed
+1380,Immediate Care Required
+1381,consult in 3 months
+1382,Immediate Care Required
+1383,consult another doctor
+1384,lab scans needed
+1385,Alright
+1386,Shift to ICU
+1387,consult in 3 months
+1388,Shift to ICU
+1389,lab scans needed
+1390,Doing Well
+1391,Doing Well
+1392,Doing Well
+1393,Alright
+1394,Needs another surgery
+1395,Needs another surgery
+1396,Doing Well
+1397,Need to checkup again
+1398,consult another doctor
+1399,consult in 3 months
+1400,Needs another surgery
+1401,Need to checkup again
+1402,Good
+1403,Doing Well
+1404,Needs another surgery
+1405,Good
+1406,Needs another surgery
+1407,Good
+1408,Good
+1409,Doing Well
+1410,Doing Well
+1411,Shift to ICU
+1412,Need to checkup again
+1413,Need to checkup again
+1414,lab scans needed
+1415,Immediate Care Required
+1416,Doing Well
+1417,Need to checkup again
+1418,consult another doctor
+1419,consult another doctor
+1420,consult another doctor
+1421,Alright
+1422,Alright
+1423,consult another doctor
+1424,Good
+1425,Need to checkup again
+1426,Immediate Care Required
+1427,consult another doctor
+1428,Shift to ICU
+1429,Alright
+1430,Shift to ICU
+1431,lab scans needed
+1432,Doing Well
+1433,Good
+1434,Immediate Care Required
+1435,Shift to ICU
+1436,Needs another surgery
+1437,Good
+1438,lab scans needed
+1439,Good
+1440,Good
+1441,Alright
+1442,Need to checkup again
+1443,consult in 3 months
+1444,Immediate Care Required
+1445,Immediate Care Required
+1446,lab scans needed
+1447,consult in 3 months
+1448,Need to checkup again
+1449,Doing Well
+1450,Good
+1451,lab scans needed
+1452,lab scans needed
+1453,Alright
+1454,consult in 3 months
+1455,consult in 3 months
+1456,lab scans needed
+1457,consult another doctor
+1458,Need to checkup again
+1459,Shift to ICU
+1460,Shift to ICU
+1461,lab scans needed
+1462,lab scans needed
+1463,Alright
+1464,Doing Well
+1465,Immediate Care Required
+1466,Shift to ICU
+1467,Needs another surgery
+1468,Need to checkup again
+1469,Alright
+1470,consult another doctor
+1471,Immediate Care Required
+1472,Good
+1473,Alright
+1474,consult in 3 months
+1475,consult in 3 months
+1476,Shift to ICU
+1477,lab scans needed
+1478,lab scans needed
+1479,Needs another surgery
+1480,Shift to ICU
+1481,Doing Well
+1482,lab scans needed
+1483,consult another doctor
+1484,consult in 3 months
+1485,Good
+1486,lab scans needed
+1487,Good
+1488,Good
+1489,Need to checkup again
+1490,consult in 3 months
+1491,consult another doctor
+1492,Doing Well
+1493,consult in 3 months
+1494,Needs another surgery
+1495,Immediate Care Required
+1496,Good
+1497,consult another doctor
+1498,consult in 3 months
+1499,lab scans needed
+1500,consult in 3 months
